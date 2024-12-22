@@ -1,4 +1,4 @@
-## How to executte (.sh) on Linux
+## How to execute (.sh) on Linux
 ```console
 ./ping_loop.sh
 ```
